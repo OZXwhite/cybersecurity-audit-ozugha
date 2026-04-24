@@ -11,11 +11,11 @@ I carried out a basic cybersecurity audit on my personal laptop to identify comm
 2. Antivirus is installed and active.
 3. Firewall is enabled.
 4. The operating system is not fully updated.
-5. Some unused applications are still installed.
+5. All installed applications are recognized and appear to be in use.
 6. Browser passwords are well protected.
 
 ## Risk Level
 Medium Risk
 
 ## Why?
-Although the system has basic protections, missing updates and weak password protection can expose it to cyber threats.
+The system has basic protections, but missing updates may expose it to cyber threats.
