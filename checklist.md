@@ -6,6 +6,6 @@
 | Antivirus installed | Safe | Screenshot added | Windows Defender active |
 | Firewall enabled | Safe | Screenshot added | Firewall is on |
 | OS updated | Risky | Screenshot added | Updates pending |
-| Unknown apps found | Risky | None | All apps are recognized and in use |
+| Unknown apps found | Safe | None | All apps are recognized and in use |
 | Screen lock enabled | Safe | Screenshot added | Lock activates automatically |
-| Browser passwords protected | Risky | Screenshot added | No extra authentication |
+| Browser passwords protected | Safe | Screenshot added | Extra authentication |
